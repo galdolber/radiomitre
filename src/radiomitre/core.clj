@@ -103,7 +103,7 @@
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));"]
     [:style
-     ".title {-webkit-text-stroke: 1px black;text-align:center;position:absolute;top:5px;z-index:100;font-size:23px;color:white;font-weight:bold}
+     ".title {width:100%;-webkit-text-stroke: 1px black;text-align:center;position:absolute;top:5px;z-index:100;font-size:23px;color:white;font-weight:bold}
       .date {position:absolute;right:3px;bottom:30px;color:#DDD;font-size:13px}
       .screen {position:absolute;border-radius:7px;top:0;bottom:0;left:0;width:100%;background-color:rgba(0,0,0,0.3)}
       .article {position:relative;border:1px solid #AAA;border-radius:8px;margin:15px 0;height:300px;background-size:cover}
